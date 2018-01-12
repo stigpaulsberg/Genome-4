@@ -1,3 +1,12 @@
 ### Chapter 1
 ## Genomes, transcriptomes, and proteomes.
 
+### Page 11
+
+There are three proposed major structures of DNA: A-, B- and Z-DNA.
+When transcribing the DNA, the proteins that attach to the DNA need to find a suitable spot to attach.
+On each type of DNA-structure there are two essential properties that the proteins are taking into account:
+The major groove and the minor groove on the sides of a double helix DNA.
+These differences in size and depth of the grooves are the most significant difference between the DNA structures.
+
+One effect of this is that the DNA-binding protein that can easily access a binding site on e.g. A-DNA, can have a hard time accessing the same binding site if the DNA has taken on the Z-strucure.
