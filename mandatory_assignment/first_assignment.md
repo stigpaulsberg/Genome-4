@@ -21,38 +21,44 @@ much longer?**
 
 The PAH gene is a gene from a eukaryotic organism where the functionality of the gene is wrapped in much non-coding DNA, introns. In the process of transcribing the whole gene is written out, full with its introns. This pre-mRNA must undergo further rounds of processing for the protein to attain its desired functionality. After modifying the gene by cutting away introns, ligating back exons in the right places and setting it with promoter and a mRNA characteristic poly-A tail, it is then ready to be processed by a ribosome into a functioning protein.
 
-
 **3. In the experiments of Avery, MacLeod, and McCarthy, what was the purpose of treating
-the transforming extract with two different enzymes?
+the transforming extract with two different enzymes?**
 
+The experiment needed to figure out whether genes were stored in RNA and proteins or in DNA. When the mouse was treated with a RNase and proteinase, it died, showing that the information that transforms a harmless bacteria to a virulent one was something else than RNA or proteins. What was that something else? They put some other enzyme, DNase, together with the harmless bacteria and surely the mouse survived. This showed that DNA carried the information, the genes, that was necessary for the transformation principle to work.
 
 **4. Given the following mRNA sequence _AUG AGA GCU CCG_**
 
-
 *4. a) derive the DNA strand, the tRNA and make the protein that is encoded by this message.*
-
-
-
-
 
 *4. b) How many hydrogen bonds would be present in the DNA segment?*
 
-DNA: ATG AGA GCT CCG - 
+DNA: ATG AGA GCT CCG - Hydrogenbonds: 31
 mRNA: AUG AGA GCU CCG
 tRNA: AUG AGA GCU CCG
 protein: **Met-Arg-Ala-Pro**
  **Methionine-Arginine-Alanine-Proline**
-*
 
-What are recombination hot spots, which problems do they cause and how do they
-originate?
-Sickle cell anemia (SCA) is a human genetic disorder caused by a recessive allele. A couple
+**5.What are recombination hot spots, which problems do they cause and how do they
+originate?**
+
+Recombination hot spots are areas on a chromosome that has repetitive sequences of Adenine and Thymine. Thymine and Adenine are bound together by hydrogen bonds, but they have only two hydrogen bonds compared to three between Guanine and Cytosine. This bonding of a double hydrogen is weaker and more exposed to breaking of their bond and hence mutations.
+
+
+**6. Sickle cell anemia (SCA) is a human genetic disorder caused by a recessive allele. A couple
 plan to have children and come to you for counseling. They want to know the probability if
 they will have an affected child. With your background in Mendelian inheritance, what can
-you tell them, if
-6.a. both are normal, but each has one affected parent and the other parent has no family
-history of SCA.
-6.b. the man is affected by the disease, but the woman has no family record of SCA.
+you tell them, if**
+
+*6.a. both are normal, but each has one affected parent and the other parent has no family
+history of SCA.*
+
+
+
+
+*6.b. the man is affected by the disease, but the woman has no family record of SCA.*
+
+
+
 7. Explain why a population carries more genetic diversity than an individual.
 8. How is linkage analysis used to construct genetic maps?
 9. Explain, why mapping is still an important feature for genome sequencing.
