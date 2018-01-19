@@ -36,10 +36,13 @@ the transforming extract with two different enzymes?
 
 
 *4. b) How many hydrogen bonds would be present in the DNA segment?*
-DNA:
-mRNA:AUG AGA GCU CCG
-tRNA:
-protein:*
+
+DNA: ATG AGA GCT CCG - 
+mRNA: AUG AGA GCU CCG
+tRNA: AUG AGA GCU CCG
+protein: **Met-Arg-Ala-Pro**
+ **Methionine-Arginine-Alanine-Proline**
+*
 
 What are recombination hot spots, which problems do they cause and how do they
 originate?
