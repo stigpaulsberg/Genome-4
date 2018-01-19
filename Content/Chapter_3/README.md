@@ -9,4 +9,4 @@ A genome map indicates positions and interesting features of genes and DNA seque
 
 ## Why is a genome map important?
 
-The sequencing of DNA has a major limitation. Only with the most advanced methods are we able to sequence only 750 bp in a single experiment. This means that long sequences needs several experiments. One long equals many small. This i the **shotgun method**. 
+The sequencing of DNA has a major limitation. Only with the most advanced methods are we able to sequence only 750 bp in a single experiment. This means that long sequences needs several experiments. One long equals many small. This is the **shotgun method**.
