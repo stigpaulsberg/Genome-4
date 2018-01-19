@@ -17,6 +17,7 @@ The human genome consist of nuclear genome and mitochondrial genome.
 
 **Diploid**: Any cell containing two copies of each autosome plus two sex chromosomes.
 
+
 ---
 
 ### Summary
