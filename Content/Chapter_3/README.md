@@ -11,11 +11,33 @@ A genome map indicates positions and interesting features of genes and DNA seque
 
 The sequencing of DNA has a major limitation. Only with the most advanced methods are we able to sequence only 750 bp in a single experiment. This means that long sequences needs several experiments. One long equals many small. This is the **shotgun method**.
 
+
+
+## Markers for genetic MAPPING
+
+Restriction fragment length polymorphisms and simple sequence length polymorphisms are examples of DNA markers.
+
+Genes are useful markers, but they are not ideal.
+
+
+
 ---
 
 ### Definitions
 
 - **QTL** *(quantitative trait loci)* are regions of a genome. These regions can each possibly hold several genes that control variable traits that are favorable in agriculture, for example. This can be seedling number, meat productivity and pest resistance in crop plants.
+
+- **Alelle** is a alternative to a gene. If there are for example two alelles in a genome, then that genome contains two variations for the same gene. For example one variation for CYP2D6*4 and one for CYP2D6*1. There are now two alelles of that gene.
+
+- **RFLP**: restriction fragment length polymorphism.
+
+- **SSLP**: simple sequence length polymorphism. There are two types of these: mini- and microsatellites.
+
+- **Minisatellites**, also known as variable number of tandem repeats (*VNTRs*) in which the repeat unit is up to 25 bp in length
+
+- **microsatellites**, or *short tandem repeats* (*STRs*), whose repeats are sorter usually 13 bp or less.
+
+
 
 ---
 
@@ -39,4 +61,4 @@ The sequencing of DNA has a major limitation. Only with the most advanced method
 
 - Optical mapping enables the positions of restriction sites and some other sequence features to be directly visualized in a long DNA molecule. **This we have performed in our lab**.
 
-- The most detailed physical maps are obtained by sequence-tagging site (**STS**) content mapping, which makes use of a mapping reagent, a collection of overlapping DNA fragments that span an entire chromosome or genome. The mapping reagent can be a *library of clones* (cDNA library?) or a radiation hybrid panel. 
+- The most detailed physical maps are obtained by sequence-tagging site (**STS**) content mapping, which makes use of a mapping reagent, a collection of overlapping DNA fragments that span an entire chromosome or genome. The mapping reagent can be a *library of clones* (cDNA library?) or a radiation hybrid panel.
