@@ -52,20 +52,47 @@ you tell them, if**
 *6.a. both are normal, but each has one affected parent and the other parent has no family
 history of SCA.*
 
-
+1/4 probability to get the recessive allele
 
 
 *6.b. the man is affected by the disease, but the woman has no family record of SCA.*
 
-
+0 probability to get the recessive allele
 
 7. Explain why a population carries more genetic diversity than an individual.
+
+The gene pool of a population is far greater than an individual and will be more diverse because there will be more possibilities through recombination and mutations.
+
 8. How is linkage analysis used to construct genetic maps?
+
+Linkage analysis is based on the assumption that the further apart two genes are on two homologous chromosomes, the higher the frequency of the recombination.
+
+Distance between genes are expressed in **map units**: One map unit is the distance between two genes that recombine with a frequency of 1%.
+
 9. Explain, why mapping is still an important feature for genome sequencing.
+
+
+
 10. Describe briefly different types of markers used to construct genetic maps, and mention
 some advantages or disadvantages.
+
+DNA markers are:
+
+- **RFLPs**: restriction fragment length polymorphism
+
+This is a marker that exploits the differences between two homologous DNA sequences. Two homologous DNA segments are cut with restriction enzymes, and these differences/non-differences are displayed using a laboratory technique.
+
+- **SSLPs**: simple sequence length polymorphism
+
+SSLPs are repeated small sequence that vary in length.
+
+- **SNPs**: single nucleotide polymorphism
+
 11. Describe, what is the fundamental difference between the expression of a trait that is
 determined by polygenes and the expression of a trait determined monogentically.
+
+
+
 12. You are a molecular biology scientist travelling with some friends in South America.
 During your journey, one of your travelling accompanies gets stomach problems. None of
 the antibiotics or other medication you have taken with you is working properly (other
@@ -92,6 +119,9 @@ yes, which one?
 13.e. Is the gene relevant for any disease? If yes, which one?
 14. Previously, investigating the transcriptome was based on mRNA probes. This is no longer
 up to date. Why?
+
+
+
 15. The group of Craig Venter has created synthetic life forms. They try to build the genome
 of a bacterium from scratch and incorporate it into a cell to make what they call the world's
 first synthetic life form.
