@@ -109,11 +109,27 @@ How may you test that in the lab?
 
 13. Go to the UCSC genome browser, continue at the European site, search for human
 information in version 38 (hg38), and find the PAH gene.
+
 13.a. Where is the gene located?
+
+The gene is located chromosome 12 on the Q part of it. **Chr12 (q23.2)**.
+
 13.b. Is it a protein coding gene? In which organ is it highest expressed?
+
+This is a protein coding gene, yes. The liver is the organ that expresses this gene the most.
+
 13.b. Provide the RefSeq and/or Ensembl gene ID?
+
+RefSeq Accession: NM_000277
+
+Ensembl version: ENSG00000171759.9
+
 13.c. Use the common settings. Out form the information on the display, is a homologous
 gene present in elephants?
+
+
+
+
 13.d. Use the microsatellite mask ("full"). Are there microsatellites present in the gene? If
 yes, which one?
 13.e. Is the gene relevant for any disease? If yes, which one?
