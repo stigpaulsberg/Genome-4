@@ -71,7 +71,7 @@ Distance between genes are expressed in **map units**: One map unit is the dista
 
 9. Explain, why mapping is still an important feature for genome sequencing.
 
-
+**Genome mapping** is the placement of genes and other DNA distinctive sequences in a genomic landscape. 
 
 10. Describe briefly different types of markers used to construct genetic maps, and mention
 some advantages or disadvantages.
@@ -91,6 +91,9 @@ SSLPs are repeated small sequence that vary in length.
 11. Describe, what is the fundamental difference between the expression of a trait that is
 determined by polygenes and the expression of a trait determined monogentically.
 
+- **Polygene** is a group of gene that produces a specific phenotype only when expressed together.
+
+- **Monogene** is a single gene expressed by itself.
 
 
 12. You are a molecular biology scientist travelling with some friends in South America.
@@ -101,11 +104,23 @@ Some local people offer you to eat a certain kind of beetle, which is known by t
 against stomach problems. Despite all of our suspicious, your friend takes the beetle and, to
 your release, recovers after a couple of days. Since you are a molecular scientist, you are
 curious, what might be the substance, which cured your friend.
+
 12.a. How would you proceed to examine the genome of that beetle?
+
+
+
 12.b. How could you compare the genome of that beetle to genomes of other beetles?
+
+
+
 12.c. You have found an interesting substance, which you think might be a new antibiotics.
 How may you test that in the lab?
+
+
+
 12.d. Has your friend taken a risk? Why or why not? What could be the consequences?
+
+
 
 13. Go to the UCSC genome browser, continue at the European site, search for human
 information in version 38 (hg38), and find the PAH gene.
@@ -127,16 +142,22 @@ Ensembl version: ENSG00000171759.9
 13.c. Use the common settings. Out form the information on the display, is a homologous
 gene present in elephants?
 
-
+Yes. It seems so.
 
 
 13.d. Use the microsatellite mask ("full"). Are there microsatellites present in the gene? If
 yes, which one?
+
+?????????????????????
+
+
 13.e. Is the gene relevant for any disease? If yes, which one?
-14. Previously, investigating the transcriptome was based on mRNA probes. This is no longer
-up to date. Why?
 
 
+
+14. Previously, investigating the transcriptome was based on mRNA probes. This is no longer up to date. Why?
+
+**mRNA probes**
 
 15. The group of Craig Venter has created synthetic life forms. They try to build the genome
 of a bacterium from scratch and incorporate it into a cell to make what they call the world's
