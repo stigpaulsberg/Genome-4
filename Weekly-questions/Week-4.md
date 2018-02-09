@@ -9,6 +9,18 @@ Homologous genes can tell us who we share a evolutionary past with and how/where
 
 ## From a genomic point of view are human and mice are quite similar - why are they still (so) different?
 
+**Different chromosome numbers**
+
+Mouse | humans
+----- | -----
+20 chromosomes | 23 chromosomes
+23000 genes | 21000 genes
+2.7 * 10^6 genomic size | 3.2 * 10^6 genomic size
+
+**Repetitive sequences**
+
+**Comparative genomics**
+
 Different chromosome numbers
 Repetitive sequences.
 Genes of the mouse and human can be
