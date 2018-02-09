@@ -38,7 +38,7 @@ DNA -> mRNA -> Protein.
 
 ### Why were the sequencing projects not started earlier?
 
-
+The project is very costly, and there was debate on how to do it and also why
 
 
 ### What is the reason for that some species have a high number of chromosomes?

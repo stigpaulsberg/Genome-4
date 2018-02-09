@@ -2,7 +2,7 @@
 
 **Due: week 8**
 
-**Submission: mark work with your name ad upload as a pdf to KJM3500 course page. **
+**Submission: mark work with your name and upload as a pdf to KJM3500 course page. **
 
 ---
 
@@ -63,18 +63,18 @@ history of SCA.*
 
 The gene pool of a population is far greater than an individual and will be more diverse because there will be more possibilities through recombination and mutations.
 
-8. How is linkage analysis used to construct genetic maps?
+**8. How is linkage analysis used to construct genetic maps?**
 
 Linkage analysis is based on the assumption that the further apart two genes are on two homologous chromosomes, the higher the frequency of the recombination.
 
 Distance between genes are expressed in **map units**: One map unit is the distance between two genes that recombine with a frequency of 1%.
 
-9. Explain, why mapping is still an important feature for genome sequencing.
+**9. Explain, why mapping is still an important feature for genome sequencing.**
 
-**Genome mapping** is the placement of genes and other DNA distinctive sequences in a genomic landscape. 
+**Genome mapping** is the placement of genes and other DNA distinctive sequences in a genomic landscape.
 
-10. Describe briefly different types of markers used to construct genetic maps, and mention
-some advantages or disadvantages.
+**10. Describe briefly different types of markers used to construct genetic maps, and mention
+some advantages or disadvantages.**
 
 DNA markers are:
 
@@ -88,85 +88,97 @@ SSLPs are repeated small sequence that vary in length.
 
 - **SNPs**: single nucleotide polymorphism
 
-11. Describe, what is the fundamental difference between the expression of a trait that is
-determined by polygenes and the expression of a trait determined monogentically.
+**11. Describe, what is the fundamental difference between the expression of a trait that is
+determined by polygenes and the expression of a trait determined monogentically.**
 
 - **Polygene** is a group of gene that produces a specific phenotype only when expressed together.
 
 - **Monogene** is a single gene expressed by itself.
 
 
-12. You are a molecular biology scientist travelling with some friends in South America.
+**12. You are a molecular biology scientist travelling with some friends in South America.
 During your journey, one of your travelling accompanies gets stomach problems. None of
 the antibiotics or other medication you have taken with you is working properly (other
 diseases like appendix or cancer could be excluded by examination at the regional hospital).
 Some local people offer you to eat a certain kind of beetle, which is known by them to help
 against stomach problems. Despite all of our suspicious, your friend takes the beetle and, to
 your release, recovers after a couple of days. Since you are a molecular scientist, you are
-curious, what might be the substance, which cured your friend.
+curious, what might be the substance, which cured your friend.**
 
-12.a. How would you proceed to examine the genome of that beetle?
-
-
-
-12.b. How could you compare the genome of that beetle to genomes of other beetles?
+***12.a. How would you proceed to examine the genome of that beetle?***
 
 
 
-12.c. You have found an interesting substance, which you think might be a new antibiotics.
-How may you test that in the lab?
+***12.b. How could you compare the genome of that beetle to genomes of other beetles?***
 
 
 
-12.d. Has your friend taken a risk? Why or why not? What could be the consequences?
+***12.c. You have found an interesting substance, which you think might be a new antibiotics.
+How may you test that in the lab?***
 
 
 
-13. Go to the UCSC genome browser, continue at the European site, search for human
-information in version 38 (hg38), and find the PAH gene.
+***12.d. Has your friend taken a risk? Why or why not? What could be the consequences?***
 
-13.a. Where is the gene located?
+
+
+**13. Go to the UCSC genome browser, continue at the European site, search for human
+information in version 38 (hg38), and find the PAH gene.**
+
+***13.a. Where is the gene located?***
 
 The gene is located chromosome 12 on the Q part of it. **Chr12 (q23.2)**.
 
-13.b. Is it a protein coding gene? In which organ is it highest expressed?
+***13.b. Is it a protein coding gene? In which organ is it highest expressed?***
 
 This is a protein coding gene, yes. The liver is the organ that expresses this gene the most.
 
-13.b. Provide the RefSeq and/or Ensembl gene ID?
+***13.b. Provide the RefSeq and/or Ensembl gene ID?***
 
 RefSeq Accession: NM_000277
 
 Ensembl version: ENSG00000171759.9
 
-13.c. Use the common settings. Out form the information on the display, is a homologous
-gene present in elephants?
+***13.c. Use the common settings. Out form the information on the display, is a homologous
+gene present in elephants?***
 
 Yes. It seems so.
 
 
-13.d. Use the microsatellite mask ("full"). Are there microsatellites present in the gene? If
-yes, which one?
+***13.d. Use the microsatellite mask ("full"). Are there microsatellites present in the gene? If
+yes, which one?***
 
 ?????????????????????
 
 
-13.e. Is the gene relevant for any disease? If yes, which one?
+***13.e. Is the gene relevant for any disease? If yes, which one?***
 
 
 
-14. Previously, investigating the transcriptome was based on mRNA probes. This is no longer up to date. Why?
+**14. Previously, investigating the transcriptome was based on mRNA probes. This is no longer up to date. Why?**
 
 **mRNA probes**
 
-15. The group of Craig Venter has created synthetic life forms. They try to build the genome
+**15. The group of Craig Venter has created synthetic life forms. They try to build the genome
 of a bacterium from scratch and incorporate it into a cell to make what they call the world's
-first synthetic life form.
-15.a. What do you think, which general parts (genes) of a genome are essential and have
-been transferred?
-15.b. So far, the bacterium is still based on an existing bacterium, guess why?
-15.c. Craig Venter describes these experiments as "a defining moment in biology"; however,
-many, and not only religious groups, are concerned. What may be the reason for it?
-15.d. To meet these concerns, the single-cell organism has four "watermarks" written into its
+first synthetic life form.**
+
+
+
+***15.a. What do you think, which general parts (genes) of a genome are essential and have
+been transferred?***
+
+
+
+***15.b. So far, the bacterium is still based on an existing bacterium, guess why?***
+
+
+
+***15.c. Craig Venter describes these experiments as "a defining moment in biology"; however,
+many, and not only religious groups, are concerned. What may be the reason for it?***
+
+
+
+***15.d. To meet these concerns, the single-cell organism has four "watermarks" written into its
 DNA to identify it as synthetic and help to trace it descendants back to their creator. Which
-sequences may they have been used?
+sequences may they have been used?***

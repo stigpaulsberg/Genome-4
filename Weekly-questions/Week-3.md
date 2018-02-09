@@ -74,11 +74,13 @@ It is the coding variant of a gene. A gene consists of introns (*non coding info
 
 The technique of using other organisms to sequence something????
 
+This is a biological field where genomes of different organisms are compared. Why do they compare genomes of different organisms?
+
+![Comparative chart between organisms](https://en.wikipedia.org/wiki/Comparative_genomics#/media/File:A_genome_alignment_of_eight_Yersinia_isolates.png)
 
 ### What may the untranslated regions (UTRs) be important for?
 
-
-
+Untranslated regions refers to both sides of a coding mRNA sequence. When protein synthesis occurs, there are several regions of the mRNA that actually *does not* get translated. And this includes the 5' and 3' UTRs.
 
 
 ### What is the difference between a Southern and a Northern blot?
