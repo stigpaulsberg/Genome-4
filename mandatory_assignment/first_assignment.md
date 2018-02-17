@@ -44,9 +44,8 @@ originate?**
 Recombination hot spots are areas on a chromosome that has repetitive sequences of Adenine and Thymine. Thymine and Adenine are bound together by hydrogen bonds, but they have only two hydrogen bonds compared to three between Guanine and Cytosine. This bonding of a double hydrogen is weaker and more exposed to breaking of their bond and hence mutations.
 
 
-**6. Sickle cell anemia (SCA) is a human genetic disorder caused by a recessive allele. A couple
-plan to have children and come to you for counseling. They want to know the probability if
-they will have an affected child. With your background in Mendelian inheritance, what can
+
+**6. Sickle cell anemia (SCA) is a human genetic disorder caused by a recessive allele. A couple plan to have children and come to you for counseling. They want to know the probability if they will have an affected child. With your background in Mendelian inheritance, what can
 you tell them, if**
 
 *6.a. both are normal, but each has one affected parent and the other parent has no family
@@ -73,8 +72,10 @@ Distance between genes are expressed in **map units**: One map unit is the dista
 
 **Genome mapping** is the placement of genes and other DNA distinctive sequences in a genomic landscape.
 
-**10. Describe briefly different types of markers used to construct genetic maps, and mention
-some advantages or disadvantages.**
+It is still important because it makes it possible to do homologous analysis on different organisms.
+
+**10. Describe briefly different types of markers used to construct genetic maps, and mention some advantages or disadvantages.**
+
 
 DNA markers are:
 
@@ -84,9 +85,20 @@ This is a marker that exploits the differences between two homologous DNA sequen
 
 - **SSLPs**: simple sequence length polymorphism
 
-SSLPs are repeated small sequence that vary in length.
+
+SSLPs are repeated small sequence that vary in length. SSLPs and RFLPs are micro- and Minisatellites.
+
+Advantages | disadvantages
+- | -
+Genes do not exist in allelic forms making it hard to distinguish one from another. Genetic markers like these can distinguish between individuals | Must have two different alleles to work
+
+
+
 
 - **SNPs**: single nucleotide polymorphism
+
+SNPs are differences in a single nucleotide pair.
+
 
 **11. Describe, what is the fundamental difference between the expression of a trait that is
 determined by polygenes and the expression of a trait determined monogentically.**
@@ -96,30 +108,36 @@ determined by polygenes and the expression of a trait determined monogentically.
 - **Monogene** is a single gene expressed by itself.
 
 
-**12. You are a molecular biology scientist travelling with some friends in South America.
-During your journey, one of your travelling accompanies gets stomach problems. None of
-the antibiotics or other medication you have taken with you is working properly (other
-diseases like appendix or cancer could be excluded by examination at the regional hospital).
-Some local people offer you to eat a certain kind of beetle, which is known by them to help
-against stomach problems. Despite all of our suspicious, your friend takes the beetle and, to
-your release, recovers after a couple of days. Since you are a molecular scientist, you are
+For monogenic inheritance it is possible to know which genotype (if the gene linked to a trait or disease is known) an individual has by using linkage analysis, looking at pedigrees. For polygenic inheritance the case is not the same, because the genotype can be different for one phenotype, since there are more genes playing a role in the phenotype.
+
+A polygenic disease (one phenotype) might be apparent through different combinations of genetic mutations (several genotypes).
+
+**12. You are a molecular biology scientist travelling with some friends in South America.During your journey, one of your travelling accompanies gets stomach problems. None of the antibiotics or other medication you have taken with you is working properly (other diseases like appendix or cancer could be excluded by examination at the regional hospital).
+Some local people offer you to eat a certain kind of beetle, which is known by them to help against stomach problems. Despite all of our suspicious, your friend takes the beetle and, to your release, recovers after a couple of days. Since you are a molecular scientist, you are
+
 curious, what might be the substance, which cured your friend.**
 
 ***12.a. How would you proceed to examine the genome of that beetle?***
 
 
+I would look it up on a genome browser, if its genome was available. If it is not available then I guess I would have to sequence it?
 
 ***12.b. How could you compare the genome of that beetle to genomes of other beetles?***
 
+It could be compared by looking at DNA markers. DNA markers such as SNP, RFLPs and SSLPs are unique between individuals. This might reveal differences and similarities. I am a bit unsure.
 
 
 ***12.c. You have found an interesting substance, which you think might be a new antibiotics.
 How may you test that in the lab?***
 
 
+Let bacterias interact with the substance and see how it responds to it. If the cell culture dies then it is antibiotic.
 
 ***12.d. Has your friend taken a risk? Why or why not? What could be the consequences?***
 
+It is a risk. I'd have no prior knowledge of what the substance is, if it is a defence mechanism for the beetle making it poisonous, or maybe the antibiotic effect is too strong creating an imbalance in the friends microbiome.
+
+People in different parts of the world might also have a different genotype. Maybe south africans have genes that are able to control the substance in a way that it doesn't do harm, but me and my friend do not.
 
 
 **13. Go to the UCSC genome browser, continue at the European site, search for human
@@ -148,7 +166,8 @@ Yes. It seems so.
 ***13.d. Use the microsatellite mask ("full"). Are there microsatellites present in the gene? If
 yes, which one?***
 
-?????????????????????
+
+I couldn't figure out how to use the microsatellite function.
 
 
 ***13.e. Is the gene relevant for any disease? If yes, which one?***
@@ -168,17 +187,19 @@ first synthetic life form.**
 ***15.a. What do you think, which general parts (genes) of a genome are essential and have
 been transferred?***
 
+I would think that the non-coding genetic material is needed to be transferred. This includes at least tRNA and mRNA, to be able to synthesize proteins. According to the book 96% of total RNA is noncoding RNA. So based on my logic, then 96% of the total genome of a organism needs to be transferred.
 
+The polymerase, ligase, helicase and such is essential for replication, and I think that would need to be transferred.
+
+I would assume that only characteristics as antibiotic resistances, genes for flagellum, types of enzymatic activities that has to do with which type carbohydrates it can digest etc. can be synthetically made. For example if it needs oxygen or not to sustain itself.
 
 ***15.b. So far, the bacterium is still based on an existing bacterium, guess why?***
 
+Because most of the genetic material is essential for all types of life. Like genes that are essential for replication.
 
+***15.c. Craig Venter describes these experiments as "a defining moment in biology"; however, many, and not only religious groups, are concerned. What may be the reason for it?***
 
-***15.c. Craig Venter describes these experiments as "a defining moment in biology"; however,
-many, and not only religious groups, are concerned. What may be the reason for it?***
+Fear of the unknown is always evident. Creating something horrendous that is hard to control. Making biological weapons is a very scary thing. And most new knowledge is available for everyone making it hard to control who makes what. I think there are evil or ignorant genes (in humans) out there that could turn something like this into something sour.
 
+***15.d. To meet these concerns, the single-cell organism has four "watermarks" written into its DNA to identify it as synthetic and help to trace it descendants back to their creator. Which sequences may they have been used?***
 
-
-***15.d. To meet these concerns, the single-cell organism has four "watermarks" written into its
-DNA to identify it as synthetic and help to trace it descendants back to their creator. Which
-sequences may they have been used?***
