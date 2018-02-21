@@ -46,7 +46,7 @@ G-banding is a mild proteolysis followed by staining with Giemsa. Dark bands are
 
 ## Why are getting the telomeres shorter?
 
-The telomeres are hundred of copies of 5'-TTAGGG-3' in humans. 
+The telomeres are hundred of copies of 5'-TTAGGG-3' in humans.
 
 Telomeres mark the END of the chromosomes. They are repetitive ends. Telomeres shorten as cells divide.
 
@@ -62,12 +62,50 @@ Alternative splicing.
 
 
 ## Are gene distributed evenly within a genome?
+
+No it is not.
+
+One evidence is the results from chromosome staining. Giemsa has a high affinity to DNA regions that are AT-rich. G-banding showed that approx. 60% of the base pairs are A and T. Cytogeneticists then predicted that there would be fewer genes in dark G-banding area, because genes generally have a 50% content of AT. not 60%.
+
+Other evidence is the isochore model. H3, which is small as fuck. Contains 25% of the genes.
+
 ## What are gene deserts?
+
+Genes desert are chromosomal regions which are several megabase pairs long, that has a low protein-coding density.
+
 ## Which differences exist between the genome of yeast, fruit fly, ad humans?
 
+Yeast has 16 chromosomes, four times as many as the fruit fly. Humans have 46 chromosomes,
+
 ## What is the advantage of alternative splicing?
+
+The same amount of information can amount to more diversity of genes.
+
 ## How may long non-coding RNAs influence gene expression?
+
+
+
 ## Why is half of the functions of human genes unknown?
+
+Because most of the functionality of the genes are only predicted, not actually observed through experiment.
+
 ## Which process may give rise to multigene families?
+
+
+
 ## Which processes may lead to pseudogenes?
+
+Mutations, recombination that inactivates genes.
+
 ## How are microsatellites used in genetic profiling?
+
+microsatellites are very individual in their length. There is a big chance of relation if the same size of microsatellites are found within or at the same genomic spacing.
+
+
+----
+
+## definitions
+
+**Interspersed repeat**: Sequences that recur at many places in the genome. There are four main types of intterspersed repeats; *SINE* short interspersed nuclear elements, *LINE* long interspersed nuclear elements, *LTR* long terminal repeat and *DNA transposons*. Multiple copies of each type are seen in this short segment of the genome, in both the intergenic regions nad in the introns of the protein-coding genes. These are just varying sizes of repeats.
+
+**C-value paradox**: It is the lack of precise correlation between complexity of the organism and its genome. Higher complexity is not precisely correlated with amount of genes or such.

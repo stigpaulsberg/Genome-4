@@ -203,3 +203,4 @@ Fear of the unknown is always evident. Creating something horrendous that is har
 
 ***15.d. To meet these concerns, the single-cell organism has four "watermarks" written into its DNA to identify it as synthetic and help to trace it descendants back to their creator. Which sequences may they have been used?***
 
+RFLPs, SSLPs.
