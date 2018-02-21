@@ -3,9 +3,24 @@
 
 ## What are the three laws of Mendel and what is the principle they are based on?
 
-**1. law**:
+**1. Law**: "*Alleles segregate randomly*": Two parent alleles have equal chance of being inherited.
+
+**2. Law**: "*Pairs of alleles segregate independently*": Inheritance of gene A is not associated with inheritance of gene B.
 
 ## What are the different phases of mitosis and meiosis?
+
+Mitosis | Meiosis
+- | -
+**Interphase**: The genetics material is in the form of euchromatin, which is not yet condensed and ready for separation. | **Interphase**
+**Late Prophase** | -
+- | **Prophase 1**: Homologous chromosomes form a bivalent, homolog chromatids might stick together.
+**Metaphase** | **Metaphase 1**
+**Anaphase**: Separation of chromatids. | **Anaphase 1**: Crossing over has occured.
+- | **Prophase 2**: Two cells form.
+- | **Metaphase 2**:
+- | **Anaphase 2**: four chromatids separate.
+**Telophase**: Two duplicate cells form (daughter cell). | **Telophase 2**: Four gametes form.
+
 
 ## What are the problems with the shotgun-method?
 
@@ -21,7 +36,7 @@ Genome maps have become less used because of better computer algorithms which ca
 
 ## What happens in the cell during the different different stage of mitosis and meiosis?
 
-
+Answered in the question above.
 
 ## Why had Thomas Morgan doubts about the work of Mendel?
 
@@ -44,6 +59,8 @@ That is because the modern DNA sequencing tools has a major limit: only with the
 
 
 ## Are there certain areas in the genome, which are difficult to map? Why?
+
+*Recombination hotspots* makes it harder for a physical mapping to be accurate. The frequency of recombination between two genes is not proportional to the distance between those two genes.
 
 
 
@@ -104,7 +121,7 @@ These are mutations that occur in a single basepair. Where one individual might 
 
 ## What can DNA chips be used for?
 
-DNA chips can be used for detecting many, many **SNPs** at once. A 2 square cm plate can detect up to 300 000 SNPs at once using 300 000 different oligonucleotides as probes. 
+DNA chips can be used for detecting many, many **SNPs** at once. A 2 square cm plate can detect up to 300 000 SNPs at once using 300 000 different oligonucleotides as probes.
 
 ## What is the process key to figuring out genes for human diseases and such?
 
