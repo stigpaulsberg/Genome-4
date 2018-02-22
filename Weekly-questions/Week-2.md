@@ -48,7 +48,7 @@ Fruit flies have many visable phenotypes and they are cheap to maintain and they
 
 ## What is genetic linkage?
 
-
+It has something to do with the inheritance of genes. Genetic linkage is the idea that genes that are close together on a chromosome tend to be inherited together during meiosis.
 
 ## Hay are genomic maps important?
 
