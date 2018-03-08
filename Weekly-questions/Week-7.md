@@ -33,7 +33,12 @@ With this conformation it is the Beta-sheet that is making the contact with the 
 
 The N-terminal helix is the one making contact with the DNA molecule.
 
-## Which classes classes of noncoding noncoding RNA exist and what are their various various functions? functions?
+## Which classes of noncoding  RNA exist and what are their various functions?
+
+In eukaryotes, the noncoding RNA has been divided into two smaller groups.
+
+**Short noncoding RNA (sncRNA)** and **long noncoding RNA (lncRNA)**.
+
 
 
 
