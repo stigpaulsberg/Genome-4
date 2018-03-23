@@ -13,3 +13,29 @@ Transcription initiation can be influenced by DNA-binding proteins that recogniz
 Bacteria have only the RNA polymerase, not different varieties of it. Eukaryotes employ a different strategy for transcription initiation where activators are playing a much more prominent role than repressor proteins.
 
 [Here is a list of RNA classifications](https://github.com/stigpaulsberg/Genome-4/blob/master/Content/Chapter_12/RNA-classes.PNG?raw=true)
+
+#### Transcription factors to note:
+
+- **General transcription factor (GTF)**:
+
+This is a complex MADE UP OF THE TWO CLASSES BELOW
+
+- **TATA-binding protein (TBP)**:
+
+This has a saddlelike shape that wraps partially around the double helix of DNA, forming a platform onto which the RNA polymerase is subsequently positioned.
+
+- **TBP-associated factors (TAFs)**:
+
+These assist the TBP in binding to its sequence specific site.
+
+**Preinitiation complex** is a big complex of multiple units including RNA polymerase. When this complex is set, with the help of transcription factors attached to enhancer sites and proximal binding sites, along with a mediator, the initiation complex goes through a phosphorylation that makes it possible for the RNA polymerase to leave the complex due to a change in its ionic properties. RNA polymerase can now transcribe the gene.
+
+******* ADD PHOTO HERE OF HOW ENCHANCERS, PROX BINDING SITES AND INITIATION COMPLEX WORK TOGETHER *******
+
+#### Binding sites for transcription factors to note:
+
+- **Proximal binding sites**:
+
+The proximal binding sites are **upstream promoter elements**, most of which are located within 2 kb of the transcription start site of the target gene. Attachment of a transcription factor to one of these sites influences transcription only of the gene within whose promoter the element is located
+
+- **Enhancers**:
