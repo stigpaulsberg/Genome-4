@@ -12,4 +12,4 @@ Transcription initiation can be influenced by DNA-binding proteins that recogniz
 
 Bacteria have only the RNA polymerase, not different varieties of it. Eukaryotes employ a different strategy for transcription initiation where activators are playing a much more prominent role than repressor proteins.
 
-skjer
+[Here is a list of RNA classifications](https://github.com/stigpaulsberg/Genome-4/blob/master/Content/Chapter_12/RNA-classes.PNG?raw=true)
