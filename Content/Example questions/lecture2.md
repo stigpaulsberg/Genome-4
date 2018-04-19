@@ -47,12 +47,21 @@ Segregation: "To separate or et apart from others from the main body"
 
 ##### What is the principal difference between mitosis and meiosis?
 
-
+The difference is that **meiosis** contributes to variations in a species. Meiosis is the cell cycle for a sexual reproductive cell.
 
 
 ##### What is genetic linkage?
+
+Genetic linkage is the idea that **genes that are close together on a chromosome tend to be inherited together**
+
 ##### What is "junk DNA"?
+
+"Junk DNA" is noncoding DNA that appears to have no biological function. Noncoding DNA can have gene regulatory function. Noncoding DNA that does not seem to have any biological function has been categorized as "junk DNA".
+
 ##### Which areas in the genome are difficult to map? Why?
+
+
+
 ##### What are the differences between genetic and physical maps?
 ##### Why was genetic mapping in humans difficult?
 ##### What are RFLPs, what are SSLPs, what SNPs? What can they be used for?
