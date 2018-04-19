@@ -30,7 +30,9 @@ These assist the TBP in binding to its sequence specific site.
 
 **Preinitiation complex** is a big complex of multiple units including RNA polymerase. When this complex is set, with the help of transcription factors attached to enhancer sites and proximal binding sites, along with a mediator, the initiation complex goes through a phosphorylation that makes it possible for the RNA polymerase to leave the complex due to a change in its ionic properties. RNA polymerase can now transcribe the gene.
 
-******* ADD PHOTO HERE OF HOW ENCHANCERS, PROX BINDING SITES AND INITIATION COMPLEX WORK TOGETHER *******
+**Mediator** is a multisubunit protein that makes physical contact with the transcription factors, which in turn makes contacts with different components of the perinitiation complex.
+
+[Here's a photo illustrating it all](https://github.com/stigpaulsberg/Genome-4/blob/master/Content/Chapter_12/Transcription%20and%20all%20that%20shit.PNG?raw=true)
 
 #### Binding sites for transcription factors to note:
 
@@ -39,3 +41,25 @@ These assist the TBP in binding to its sequence specific site.
 The proximal binding sites are **upstream promoter elements**, most of which are located within 2 kb of the transcription start site of the target gene. Attachment of a transcription factor to one of these sites influences transcription only of the gene within whose promoter the element is located
 
 - **Enhancers**:
+
+This is also a *binding site*, but more distant. These can be positioned anywhere within the functional domain that contains their target gene. A *single enchanter* can influence **transcription of multiple genes within its domain**, but it is prevented by insulator sequences from affecting genes in neighboring domains.
+
+
+**MOST TRANSCRIPTION FACTORS ARE ACTIVATORS, NOT REPRESSORS**, but there are some, called **silencers**.
+
+
+## 12.3 DEGRADATION OF THE COMPONENTS OF THE TRANSCRIPTOME
+
+
+#### Several processes are known for nonspecific RNA turnover
+
+Half life of RNA is of interest.
+
+Bacterial mRNA are turned over more rapidly than eukaryotic mRNA. Half life for EU-mRNA can be several hours for mammals, and half life for PRO-mRNA can be like 20 minutes or so.
+
+Fewer studies have been done on noncoding RNA, but the studies that have been conducted suggest that tRNA and rRNA are both turned over more slowly than mRNA. **tRNA half-lives between 9 hours to several days** and **rRNA half-lives up to 8 days**.
+
+In bacteria, nonspecific mRNA degradation is carried out by **degradosome**, a multiprotein structure whose components include polynucleotide phosphorylase (PNPase), which removes nucleotides sequentially from the 3'-end of an mRNA.
+
+*The eukaryotic equivalent is called **exosome**, which comprises a *ring of six proteins*, each of which has ribonuclease activity, with three RNA-binding proteins attached to the top of the ring.*
+Exosomes are present in both the cytoplasm and the nucleus of a eukaryotic cell. The main role is rapid turnover of aberrant RNAs that have not been processed or transcribed correctly. **Aberrant mRNAs are detected by a **surveillance mechanism**, which identifies ones that lack a termination codon, which might occur if the DNA has been copied incorrectly.
