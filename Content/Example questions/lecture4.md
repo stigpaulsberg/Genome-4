@@ -39,7 +39,7 @@ Two problems with it:
 
 ##### Why is half of the functions of human genes unknown?
 
-Because most of the genes are only
+Because most of the genes are not actually experimentally validated, only predicted based on for example domains
 
 ##### How to study gene expression using mutational analysis in model organisms?
 
@@ -55,3 +55,5 @@ RNAi is a RNA molecule naturally made by organisms to control gene expression. I
 Their function is to silence expression by destroying the mRNA and not the gene/DNA
 
 ##### How to study functional gene suppression and overexpression?
+
+To overexpress a gene, a special type of cloning vector must be used. A cloning vector needs to ensure that the cloned gene synthesizes as much protein as possible. The vector needs to be a **multicopy**, meaning it makes 40-200 copies per cell.
