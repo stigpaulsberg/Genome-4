@@ -34,7 +34,7 @@ Paternal mitochondria are degraded by enzymes.
 
 The mother can be affected by a mitochondrial disease in a manner that only slightly expresses itself, or don't express itself at all. The meaning is that of all the mitochondria in the gamete of the mother might be divided between diseased mitochondria and healthy mitochondria. When these are passed on to the offspring, it is mere chance that dictates how affected the offspring will be.
 
-Lets say 20% of the mitochondria the offspring inherits are diseased, then the child might be just fine. But if 80% of it is diseased, the child will be affected. But the ratio of healthy/diseased mitochondria that is passed on is merely a gamble. The number of diseased mitochondria varies from cell to cell. 
+Lets say 20% of the mitochondria the offspring inherits are diseased, then the child might be just fine. But if 80% of it is diseased, the child will be affected. But the ratio of healthy/diseased mitochondria that is passed on is merely a gamble. The number of diseased mitochondria varies from cell to cell.
 
 ## What are the structural and functional differences between euchromatin and heterochromatin?
 
@@ -45,7 +45,7 @@ Comprises those parts of the chromosomal DNA that contain *active* genes --> RNA
 RNA polymerase/proteins involved in transcription can access the material. | Can't access the material.
 - | There are two types of heterochromatin.
 - | **Constitutive**: A permanent feature of all cells. Represent DNA that contains no genes and so always retain compact organization. Most of human Y chromosome is made of constitutive heterochromatin.
-- | **Facultative**: Not permanent feature but is seen in some cells some of the time. Contains genes that are inactive in some cells or at some periods of the cell cycle. When genes are *inanctive*, compacted into heterochromatin.
+- | **Facultative**: Not permanent feature but is seen in some cells some of the time. Contains genes that are inactive in some cells or at some periods of the cell cycle. When genes are *inactive*, compacted into heterochromatin.
 
 
 ## What does the territory structure of the nucleus comprehends?

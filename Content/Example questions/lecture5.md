@@ -66,12 +66,34 @@ Genome size increases with complexity, but this is by all means not a linear rel
 
 #### Which differences exist between the genomes of yeast, fruit fly, and humans?
 
-**Human genome** - The human genome is very complex, comprised of many LINEs, SINEs, LTR elements and DNA transposons. 
+**Human genome** - The human genome is very complex, comprised of many LINEs, SINEs, LTR elements and DNA transposons.
 
 **Yeast genome** - The yeast genome is more packed and has a higher gene density than the fruit fly and human genome. The yeast genome has fewer interspersed spaces between the coding genes.
 
 **Fruit fly genome** - The fruit fly genome is more complex than the yeast genome, but less so than the human. It has more interspersed sequences and less gene density.
 
+
+[Here's a table comparing the three](https://github.com/stigpaulsberg/Genome-4/blob/master/Content/Comparison%20of%20genomes.PNG?raw=true)
+
 #### What is the advantage of alternative splicing?
+
+Alternative splicing allows more information to be stored in any space. If one gene codes for many proteins instead of just one, then the variety of biological functionality increases without taking up more space in a cell. This has to be a beneficial trait.
+
 #### How may long non-coding RNAs influence gene expression?
+
+**Long non-coding RNA**: A noncoding RNA longer than 200 nucleotides in length.
+
+lncRNA are involved in histone modification and chromatin states.
+
+Transcriptional interference. Induce chromatin remodeling and histone modifications.
+
+
 #### How are microsatellites used in genetic profiling?
+
+**Microsatellite**: A type of simple sequence length polymorphism comprising tandem copies of repeat units. They are also called **short tandem repeat**. The most frequent form of STR's come in di or trinucleotide form.
+
+These microsatellites are like a fingerprint of a individuals genome. No human is the same when it comes to microsatellites. This helps identifying relationships in:
+
+1. Forensic medicine
+2. Kinship
+3. Population affinites
