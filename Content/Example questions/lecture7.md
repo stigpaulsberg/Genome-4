@@ -130,14 +130,49 @@ It is all done so that it can be transfered from the nucleus to the cytoplasma a
 
 #### What are the forms and features of alternative splicing?
 
+There are four forms:
 
+**1. Exon Skipping**:
+
+This alternative is also viewed as a mistake during splicing, where a exon is skipped. When splicing together other exons. Donor and acceptor site are largely the same for all introns. Mistakes are thought to occur and that the wrong splice sites could be joined, leaving a exon out of the mature RNA.
+
+**2. Alternative site selection**:
+
+The usual donor and acceptor site is ignored and a second site is used.
+
+**3. Alternative exons**:
+
+The mRNA contains one or the other exon, but not both at the same time.
+
+**4. Intron retention**:
+
+An intron that is usually spliced out is retained in the mature RNA.
 
 #### What are the major steps in a microarray expression experiment?
 
+What are microarrays ?
 
+Microarray = Array = Probe array = chip
+
+- Arrays of numerous pre-immobilized probes on a solid surface representing various genes of some biological species.
+
+- Arrays enable parallel analysis of complex samples
+
+- By scanning, the amount of cDNA/DNA/protein bound to the spots on the microarrays is precisely measured, generating a profile of gene expression (RNA/cDNA), genome profile (DNA) or protein20.
+
+**What are the major steps in a microarray expression experiment?**
+
+The major steps of a comparative hybridization experiment are:
+
+0. Choosing cell populations: **Experimental design**
+1. **RNA extraction** (total RNA or mRNA)
+2. **Reverse transcription (cDNA)** and **labeling**
+3. **Hybridization** to a microarray
+4. **Scanning** of the hybridized array
+5. Interpreting of the scanned image: **Analysis**
 
 #### What is clustering?
 
-
+Clustering is a sort of grouping of genes or samples that are highly correlated. Clusters are formed to reduce complexity and base inferences on molecular expressional patterns. 
 
 #### What can we measure applying chips and arrays?
