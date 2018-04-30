@@ -32,7 +32,7 @@ It carries information that passes to offspring.
 
 
 
-Why were the sequencing projects not started earlier?
+##### Why were the sequencing projects not started earlier?
 
 
 
@@ -76,8 +76,6 @@ cDNA is a copy of the mRNA, so this does not contain any introns. It also lacks 
 One idea that gives some basis to it is that RNA is something of an inbetweener of DNA and a protein. A DNA does not have much biological function other than storing information that can be translated into biological functions recognized via proteins. And proteins is not a storage for information, but a translation of information into biological function.
 
 RNA is somewhere in between. RNA has a lot of biological function (ribosomes are made up of RNA and proteins, tRNA is a transporter of aminoacids) and it is also a storage unit for information (mRNA). RNA is however less stable, and seen through a "more stable wins the time race" eye-lense, the DNA would eventually take over RNA's position as a storage unit due to its higher chemical stability.
-
-
 
 ##### What is alternative splicing and why is it more present in vertebrates?
 
