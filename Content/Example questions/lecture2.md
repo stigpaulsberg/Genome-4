@@ -92,7 +92,7 @@ This is an RFLP, and its position on a genome map can be worked out by following
 SSLPs are quite different from RFLPs. SSLPs aare arrays of repeat sequences that show *length variations*, with different alleles containting *different numbers of repeat units*. Unlike RFLPs, SSLPs can be multiallelic, as each SSLP can have a number of different length variants. There are two types of SSLPs.
 
 **Minisatellites** | **Microsatellites**
-- | -
+---- | ----
 or *variable number of tandem repeats (VNTRs)*. | or *short tandem repeats (STRs)*.
 A repeat unit is up to **25** bp in length. | A repeat is shorter, usually 13 bp or less.
 A more frequently found at the telomeric ends of a chromosome, and not spread evenly around the genome | Microsatellites are more conveniently spaced around the genome.
